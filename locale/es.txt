@@ -3,15 +3,15 @@
 ## Media
 
 ### Título
+panorama_485883FE_58F8_BE86_41D3_DB800EA06C26.label = Appearance
+panorama_48F244F8_58FF_7A8A_41D1_268D17B97520.label = Bathroom
+panorama_48F3DD6C_58F8_CB8A_4193_E4D1F02CEAA9.label = Bedroom
+panorama_48F24F39_58FF_478A_4186_CD318E2B3DE1.label = Bedroom curtains
+panorama_48F20E6D_58F8_C98A_4193_3843BC6E3576.label = Bedroom2
 photo_7C473637_6833_45DD_41D6_E6534E2EA913.label = Capsule whales logo jpg
 photo_7C473637_6833_45DD_41D6_E6534E2EA913.label = Capsule whales logo jpg
 album_7C8D7D18_6833_47D4_419D_7F9E0871BAB8_0.label = Capsule whales logo png
-panorama_485883FE_58F8_BE86_41D3_DB800EA06C26.label = Type1_01_Appearance
-panorama_48F1B70A_58F8_C78E_419E_840F01210F2D.label = Type1_02_Entrance
-panorama_48F3DD6C_58F8_CB8A_4193_E4D1F02CEAA9.label = Type1_03_Bedroom
-panorama_48F20E6D_58F8_C98A_4193_3843BC6E3576.label = Type1_04_Bedroom2
-panorama_48F24F39_58FF_478A_4186_CD318E2B3DE1.label = Type1_05_Bedroom2-1
-panorama_48F244F8_58FF_7A8A_41D1_268D17B97520.label = Type1_06_Bathroom
+panorama_48F1B70A_58F8_C78E_419E_840F01210F2D.label = Entrance
 panorama_68B51333_67D1_C3D4_41D4_467E690176E7.label = Type2_01_Appearance
 panorama_6A1A3641_67D1_C5B5_41C9_C2B473AF6EDA.label = Type2_02_Bedroom
 panorama_6A184CE5_67D1_C67D_41D2_8E34E6C7E2B6.label = Type2_03_Kitchen
@@ -38,9 +38,15 @@ album_7C8D7D18_6833_47D4_419D_7F9E0871BAB8.label = Álbum de Fotos Capsule whale
 
 ## Skin
 
+### Botón
+Button_750AE903_6853_4FB5_41B1_428BE715F1B5.label = TYPE 1
+
 ### Imágen
 Image_7D20F068_6833_5E73_41D6_55E1B44E3D08.url = skin/Image_7D20F068_6833_5E73_41D6_55E1B44E3D08_es.png
 Image_7E03FB05_6837_43BC_41C3_15BBD064580A.url = skin/Image_7E03FB05_6837_43BC_41C3_15BBD064580A_es.jpg
+
+### Tooltip
+IconButton_4CEF9B98_68D2_C2D3_4135_B06783641F00.toolTip = Fullscreen
 
 ## Tour
 
