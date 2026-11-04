@@ -1,4 +1,9 @@
 {
+ "theme_color": "#FFFFFF",
+ "background_color": "#FFFFFF",
+ "display": "fullscreen",
+ "start_url": "index.htm?installed=true",
+ "name": "Capsule Whales (Duplicado)",
  "icons": [
   {
    "sizes": "150x150",
@@ -35,10 +40,5 @@
    "type": "image/png",
    "src": "misc/icon64.png"
   }
- ],
- "display": "fullscreen",
- "theme_color": "#FFFFFF",
- "background_color": "#FFFFFF",
- "name": "Capsule Whales",
- "start_url": "index.htm?installed=true"
+ ]
 }
